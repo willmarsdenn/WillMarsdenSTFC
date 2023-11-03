@@ -1,6 +1,5 @@
 - 👋 @WillMarsdenSTFC
-- 👀 LMS Technician Support
-- 🌱 Working with Totara
+- 👀 Software Engineer at STFC
 - 📫 will.marsden@stfc.ac.uk
 
 <!---
